@@ -1,0 +1,24 @@
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\j.assad\source\repos\RPG_GPM_2023\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.AssemblyReference.cache
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\zizou\source\repos\RPG Fight\GPM1_ASSAD_J\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache

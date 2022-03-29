@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4gFGQ6+jS23nuLD3RaD0GAWgQQPOe4ta8Et3PsK5e4hj4gKs1OuEEtNk1nJx3enMOTvpyRqc9cTZaZHjXC1PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zizou\\source\\repos\\RPG Fight\\GPM1_ASSAD_J\\RPG\\RPG\\RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zizou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
